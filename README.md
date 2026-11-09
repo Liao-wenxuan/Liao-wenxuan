@@ -34,8 +34,8 @@
 | --- | --- | --- |
 | [volleyball-team](https://github.com/Liao-wenxuan/volleyball-team) | 高校排球队管理：考勤 · 成长记录 · 平板战术板 | 零依赖单文件离线即用，也能切云端多端同步；PWA 缓存优先，238 单测 / 3 条 E2E |
 | [vigil](https://github.com/Liao-wenxuan/vigil) | 前端可观测性：错误监控 + Web Vitals RUM + Issue 生命周期 | 自己埋点、自己收数据，把「线上到底慢在哪」变成可查的表 |
-| [Guanmo-open](https://github.com/Liao-wenxuan/Guanmo-open) | AI 原生 Markdown 阅读器 | 本地 RAG 知识库 + 长期记忆 + Agent 工具，数据不出本机 |
-| [coc_trpg](https://github.com/Liao-wenxuan/coc_trpg) | 局域网联机跑团辅助 | AI 主持 / 协助真人 KP 双模式，一次轻量 Agent 编排实践 |
+
+> 另外 fork 过 [Guanmo-open](https://github.com/Liao-wenxuan/Guanmo-open)（AI 原生 Markdown 阅读器）与 [coc_trpg](https://github.com/Liao-wenxuan/coc_trpg)（局域网联机跑团辅助）下来读源码学习，**非本人作品**，故不列入上表。主页只放我实际写过的东西。
 
 ## 🛠 常用技术栈
 
